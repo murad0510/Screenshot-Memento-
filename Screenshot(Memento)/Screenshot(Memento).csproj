@@ -113,15 +113,6 @@
     <Folder Include="Images\" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="BackGround\friends.jpg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="BackGround\back.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="BackGround\next.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="BackGround\NotImage.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
